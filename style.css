@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    background-color: #f0f0f0;
+}
+.header {
+  text-align: center;
+  font-weight: bold;
+}
+.header a {
+  color: #0066cc;
+  font-style: italic;
+}
+.phead {
+  text-align: center;
+  font-weight: bold;
+}
+span {
+  color: #0066cc;
+}
+.pbottom{
+    color: #cc3300;
+}
+p{
+    color: #444;
+}
